@@ -1,4 +1,4 @@
-# Google Play Store Analysis using Flask Dashboard UI (Pyyhon)
+# Google Play Store Analysis using Flask Dashboard UI (Python)
 ## Introduction
 Project kali ini yaitu menganalisa suatu file `csv`dengan menggunakan pandas dan python untuk disajikan kedalam bentuk web sederhana (dashboard) mmenggunakan framework `Flask`. 
 
@@ -32,7 +32,7 @@ Untuk membuat tabel `top_category`aplikasi berdasarkan reviews, dapat menggunaka
 ### Data Visualization 
 - membuat summary statistik yang berisikan `most_categories` yaitu kategori aplikisi terbanyak dan `total_in_market` yaitu jumlah aplikasi pada `most_categories` yang ada di market
 - membuat bar chart yang berisikan `top_category` pada aplikasi di market dengan jumlah terbanyak
-<img src="C:\Users\RezaLU01\OneDrive - FrieslandCampina\Desktop\Algoritma Data Science\Materi\Data Analytics Specialization\Capstone\capstone_UIFlask_Reza\cat_order.png">
+<img src="cat_order.png">
 - membuat scatter plot unyuk sebaran data pada nilai Reviews vs Rating
 <img src="C:\Users\RezaLU01\OneDrive - FrieslandCampina\Desktop\Algoritma Data Science\Materi\Data Analytics Specialization\Capstone\capstone_UIFlask_Reza\rev_rat.png">
 - membuat histogram untuk frekuensi aplikasi yang sering diinstall berdasarkan size
