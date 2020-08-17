@@ -34,11 +34,11 @@ Untuk membuat tabel `top_category`aplikasi berdasarkan reviews, dapat menggunaka
 - membuat bar chart yang berisikan `top_category` pada aplikasi di market dengan jumlah terbanyak
 <img src="cat_order.png">
 - membuat scatter plot unyuk sebaran data pada nilai Reviews vs Rating
-<img src="C:\Users\RezaLU01\OneDrive - FrieslandCampina\Desktop\Algoritma Data Science\Materi\Data Analytics Specialization\Capstone\capstone_UIFlask_Reza\rev_rat.png">
+<img src="rev_rat.png">
 - membuat histogram untuk frekuensi aplikasi yang sering diinstall berdasarkan size
-<img src="C:\Users\RezaLU01\OneDrive - FrieslandCampina\Desktop\Algoritma Data Science\Materi\Data Analytics Specialization\Capstone\capstone_UIFlask_Reza\hist_size.png">
+<img src="hist_size.png">
 - membuat pie chart
-<img src="C:\Users\RezaLU01\OneDrive - FrieslandCampina\Desktop\Algoritma Data Science\Materi\Data Analytics Specialization\Capstone\capstone_UIFlask_Reza\piechart.png">
+<img src="piechart.png">
 
 ### Build Flask App 
 membuat dashboard pada web dengan menggunakan Flask dengan cara 
